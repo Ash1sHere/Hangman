@@ -1,2 +1,3 @@
 # Hangman
-A GUI-based Hangman game in Python with hints, built using Tkinter, where players guess a randomly chosen word with limited attempts and receive category-based hints.
+
+This project is a graphical user interface (GUI) implementation of the classic Hangman game, built using Python’s tkinter library. Players attempt to guess a randomly selected word within a limited number of attempts by entering one letter at a time. To make the game more engaging and user-friendly, each word comes with a category-based hint displayed at the start, helping players narrow down their guesses. The game provides dynamic feedback on correct and incorrect guesses, updates the displayed word and remaining attempts in real time, and includes a reset option for starting a new round. It’s an excellent project for practicing GUI development, input validation, and logic implementation in Python.
